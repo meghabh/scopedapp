@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="app2">3cddbbebdb130300e2f97e7dbf96193d</application>
+        <filter/>
+        <name>dgs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_176815_app2.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-03 10:31:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>31fca0ffdb1b0300e2f97e7dbf961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dgs</sys_name>
+        <sys_package display_value="app2" source="x_176815_app2">aa70b7a3db130300e2f97e7dbf9619f7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="app2">aa70b7a3db130300e2f97e7dbf9619f7</sys_scope>
+        <sys_update_name>sys_ui_module_31fca0ffdb1b0300e2f97e7dbf961956</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-03 10:31:35</sys_updated_on>
+        <table>x_176815_app2_dg</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
